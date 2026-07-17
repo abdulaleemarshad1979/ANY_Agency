@@ -1,0 +1,6 @@
+{
+  "name": "Horizon Academy",
+  "description": "A premium, minimal, high-conversion landing page for Horizon Academy with Framer Motion animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
